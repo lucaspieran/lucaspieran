@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 📫 How to reach me:
+## 📫 How to contact me:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucas-pierandrei-4705561b1/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lucaspieran)
