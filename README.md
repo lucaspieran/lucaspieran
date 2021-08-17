@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/lucas-pierandrei-4705561b1/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lucaspieran)
-[![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/lucas.pierandrei/)
