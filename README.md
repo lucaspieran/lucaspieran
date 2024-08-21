@@ -1,6 +1,5 @@
 ### Hi there I'm Lucas 👋
 
-I'm Lucas Pierandrei, a 26-year enthusiast who does web development. Passionate to contribute open-source projects and make cool products
 
 <!--
 **lucaspieran/lucaspieran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
